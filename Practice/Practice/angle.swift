@@ -36,4 +36,3 @@ func angle(num: Int) -> Int
 let angle = 97
 
 let result = angle(num: angle)
-
