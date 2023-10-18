@@ -29,6 +29,7 @@
 		6C2E88952ADFBB8300E0E4C8 /* division.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = division.swift; sourceTree = "<group>"; };
 		6C2E88972ADFC11200E0E4C8 /* angle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = angle.swift; sourceTree = "<group>"; };
 		6C2E88992ADFC38F00E0E4C8 /* plusEven.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = plusEven.swift; sourceTree = "<group>"; };
+		6C2E889B2ADFC9B700E0E4C8 /* arrayAverage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = arrayAverage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +71,7 @@
 				6C2E88952ADFBB8300E0E4C8 /* division.swift */,
 				6C2E88972ADFC11200E0E4C8 /* angle.swift */,
 				6C2E88992ADFC38F00E0E4C8 /* plusEven.swift */,
+				6C2E889B2ADFC9B700E0E4C8 /* arrayAverage.swift */,
 			);
 			path = Practice;
 			sourceTree = "<group>";
