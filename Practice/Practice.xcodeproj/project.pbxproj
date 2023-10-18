@@ -31,6 +31,7 @@
 		6C2E88992ADFC38F00E0E4C8 /* plusEven.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = plusEven.swift; sourceTree = "<group>"; };
 		6C2E889B2ADFC9B700E0E4C8 /* arrayAverage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = arrayAverage.swift; sourceTree = "<group>"; };
 		6C2E889D2ADFD50800E0E4C8 /* oddEven.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = oddEven.swift; sourceTree = "<group>"; };
+		6C8164782ADFF6110054ACE5 /* arrAver.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = arrAver.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +75,7 @@
 				6C2E88992ADFC38F00E0E4C8 /* plusEven.swift */,
 				6C2E889B2ADFC9B700E0E4C8 /* arrayAverage.swift */,
 				6C2E889D2ADFD50800E0E4C8 /* oddEven.swift */,
+				6C8164782ADFF6110054ACE5 /* arrAver.swift */,
 			);
 			path = Practice;
 			sourceTree = "<group>";
