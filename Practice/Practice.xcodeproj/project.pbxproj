@@ -35,6 +35,7 @@
 		6C81647A2ADFFC9E0054ACE5 /* deco.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = deco.swift; sourceTree = "<group>"; };
 		6C81647C2AE141EB0054ACE5 /* divisor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = divisor.swift; sourceTree = "<group>"; };
 		6C81647E2AE151B10054ACE5 /* remainder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = remainder.swift; sourceTree = "<group>"; };
+		6C8164802AE28C860054ACE5 /* arithmeticProgression.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = arithmeticProgression.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +83,7 @@
 				6C81647A2ADFFC9E0054ACE5 /* deco.swift */,
 				6C81647C2AE141EB0054ACE5 /* divisor.swift */,
 				6C81647E2AE151B10054ACE5 /* remainder.swift */,
+				6C8164802AE28C860054ACE5 /* arithmeticProgression.swift */,
 			);
 			path = Practice;
 			sourceTree = "<group>";
