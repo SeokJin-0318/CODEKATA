@@ -38,6 +38,7 @@
 		6C8164802AE28C860054ACE5 /* arithmeticProgression.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = arithmeticProgression.swift; sourceTree = "<group>"; };
 		6C8164832AE294CA0054ACE5 /* reverse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = reverse.swift; sourceTree = "<group>"; };
 		6CDFA47A2AE909AB0015EB4A /* casting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = casting.swift; sourceTree = "<group>"; };
+		6CDFA47C2AE9358D0015EB4A /* squareRoot.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = squareRoot.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +89,7 @@
 				6C8164802AE28C860054ACE5 /* arithmeticProgression.swift */,
 				6C8164832AE294CA0054ACE5 /* reverse.swift */,
 				6CDFA47A2AE909AB0015EB4A /* casting.swift */,
+				6CDFA47C2AE9358D0015EB4A /* squareRoot.swift */,
 			);
 			path = Practice;
 			sourceTree = "<group>";
