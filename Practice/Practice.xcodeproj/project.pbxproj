@@ -40,6 +40,7 @@
 		6CDFA47A2AE909AB0015EB4A /* casting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = casting.swift; sourceTree = "<group>"; };
 		6CDFA47C2AE9358D0015EB4A /* squareRoot.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = squareRoot.swift; sourceTree = "<group>"; };
 		6CDFA47E2AE937C20015EB4A /* descendingPowers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = descendingPowers.swift; sourceTree = "<group>"; };
+		6CDFA4802AEA565F0015EB4A /* hashard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hashard.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,6 +93,7 @@
 				6CDFA47A2AE909AB0015EB4A /* casting.swift */,
 				6CDFA47C2AE9358D0015EB4A /* squareRoot.swift */,
 				6CDFA47E2AE937C20015EB4A /* descendingPowers.swift */,
+				6CDFA4802AEA565F0015EB4A /* hashard.swift */,
 			);
 			path = Practice;
 			sourceTree = "<group>";
