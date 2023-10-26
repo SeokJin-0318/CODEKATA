@@ -6,6 +6,10 @@
 	objectVersion = 56;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		6CDFA4852AEA5EC90015EB4A /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CDFA4842AEA5EC90015EB4A /* main.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXCopyFilesBuildPhase section */
 		6C2E88772ADEB2B200E0E4C8 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -41,6 +45,8 @@
 		6CDFA47C2AE9358D0015EB4A /* squareRoot.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = squareRoot.swift; sourceTree = "<group>"; };
 		6CDFA47E2AE937C20015EB4A /* descendingPowers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = descendingPowers.swift; sourceTree = "<group>"; };
 		6CDFA4802AEA565F0015EB4A /* hashard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hashard.swift; sourceTree = "<group>"; };
+		6CDFA4822AEA5A010015EB4A /* sumAtoB.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sumAtoB.swift; sourceTree = "<group>"; };
+		6CDFA4842AEA5EC90015EB4A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +100,8 @@
 				6CDFA47C2AE9358D0015EB4A /* squareRoot.swift */,
 				6CDFA47E2AE937C20015EB4A /* descendingPowers.swift */,
 				6CDFA4802AEA565F0015EB4A /* hashard.swift */,
+				6CDFA4822AEA5A010015EB4A /* sumAtoB.swift */,
+				6CDFA4842AEA5EC90015EB4A /* main.swift */,
 			);
 			path = Practice;
 			sourceTree = "<group>";
@@ -157,6 +165,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6CDFA4852AEA5EC90015EB4A /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
