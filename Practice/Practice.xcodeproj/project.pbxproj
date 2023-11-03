@@ -37,6 +37,7 @@
 		6C7FC20A2AF262C500BAF593 /* hideNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hideNumber.swift; sourceTree = "<group>"; };
 		6C7FC20C2AF26D2100BAF593 /* sumEmptyNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sumEmptyNumber.swift; sourceTree = "<group>"; };
 		6C7FC20E2AF26FEB00BAF593 /* removeLowNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = removeLowNumber.swift; sourceTree = "<group>"; };
+		6C7FC2102AF4F5FD00BAF593 /* middleWord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = middleWord.swift; sourceTree = "<group>"; };
 		6C8164782ADFF6110054ACE5 /* arrAver.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = arrAver.swift; sourceTree = "<group>"; };
 		6C81647A2ADFFC9E0054ACE5 /* deco.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = deco.swift; sourceTree = "<group>"; };
 		6C81647C2AE141EB0054ACE5 /* divisor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = divisor.swift; sourceTree = "<group>"; };
@@ -110,6 +111,7 @@
 				6C7FC20A2AF262C500BAF593 /* hideNumber.swift */,
 				6C7FC20C2AF26D2100BAF593 /* sumEmptyNumber.swift */,
 				6C7FC20E2AF26FEB00BAF593 /* removeLowNumber.swift */,
+				6C7FC2102AF4F5FD00BAF593 /* middleWord.swift */,
 			);
 			path = Practice;
 			sourceTree = "<group>";
