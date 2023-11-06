@@ -19,6 +19,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		6C1795BB2AF8E0D50010449F /* repetition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = repetition.swift; sourceTree = "<group>"; };
 		6C2E88792ADEB2B200E0E4C8 /* Practice */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Practice; sourceTree = BUILT_PRODUCTS_DIR; };
 		6C2E88892ADEB36500E0E4C8 /* age.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = age.swift; sourceTree = "<group>"; };
 		6C2E888B2ADEB40500E0E4C8 /* minus.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = minus.swift; sourceTree = "<group>"; };
@@ -112,6 +113,7 @@
 				6C7FC20C2AF26D2100BAF593 /* sumEmptyNumber.swift */,
 				6C7FC20E2AF26FEB00BAF593 /* removeLowNumber.swift */,
 				6C7FC2102AF4F5FD00BAF593 /* middleWord.swift */,
+				6C1795BB2AF8E0D50010449F /* repetition.swift */,
 			);
 			path = Practice;
 			sourceTree = "<group>";
