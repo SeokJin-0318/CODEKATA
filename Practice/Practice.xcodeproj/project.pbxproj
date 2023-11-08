@@ -33,6 +33,7 @@
 		6C2E889B2ADFC9B700E0E4C8 /* arrayAverage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = arrayAverage.swift; sourceTree = "<group>"; };
 		6C2E889D2ADFD50800E0E4C8 /* oddEven.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = oddEven.swift; sourceTree = "<group>"; };
 		6C3CF6D92AFA505300FE4988 /* inner product.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "inner product.swift"; sourceTree = "<group>"; };
+		6C3CF6DB2AFBA32700FE4988 /* divisorSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = divisorSum.swift; sourceTree = "<group>"; };
 		6C7FC2042AEFCCF800BAF593 /* findKim.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = findKim.swift; sourceTree = "<group>"; };
 		6C7FC2062AEFCF3F00BAF593 /* arrayDivisor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = arrayDivisor.swift; sourceTree = "<group>"; };
 		6C7FC2082AF25DA300BAF593 /* sumArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sumArray.swift; sourceTree = "<group>"; };
@@ -116,6 +117,7 @@
 				6C7FC2102AF4F5FD00BAF593 /* middleWord.swift */,
 				6C1795BB2AF8E0D50010449F /* repetition.swift */,
 				6C3CF6D92AFA505300FE4988 /* inner product.swift */,
+				6C3CF6DB2AFBA32700FE4988 /* divisorSum.swift */,
 			);
 			path = Practice;
 			sourceTree = "<group>";
