@@ -8,7 +8,7 @@
 import Foundation
 
 
-func reverseBinary(number: Int) -> Int
+func reserveBinary(number: Int) -> Int
 {
     var quotient = number, result = 0
     var arr: [Int] = []
@@ -34,8 +34,8 @@ func reverseBinary(number: Int) -> Int
     }
     
     print("앞뒤 반전 : ", arr)
-    print("10진법 변환 : ", result)
+    
     return result
 }
 
-reverseBinary(number: 45)
+print("10진법 변환 : ", reserveBinary(number: 125))
