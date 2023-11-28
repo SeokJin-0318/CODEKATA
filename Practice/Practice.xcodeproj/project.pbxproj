@@ -36,7 +36,7 @@
 		6C3CF6DB2AFBA32700FE4988 /* divisorSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = divisorSum.swift; sourceTree = "<group>"; };
 		6C3CF6DD2AFCF33200FE4988 /* sortedString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sortedString.swift; sourceTree = "<group>"; };
 		6C3CF6DF2AFCF52F00FE4988 /* price.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = price.swift; sourceTree = "<group>"; };
-		6C5F383E2B1504020028B793 /* upperCaseString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = upperCaseString.swift; sourceTree = "<group>"; };
+		6C5F383E2B1504020028B793 /* changeUpperCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = changeUpperCase.swift; sourceTree = "<group>"; };
 		6C5F38402B1504690028B793 /* changeBinary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = changeBinary.swift; sourceTree = "<group>"; };
 		6C722CCB2B0F5E3B008DB15B /* CommonFactorMultiple.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommonFactorMultiple.swift; sourceTree = "<group>"; };
 		6C7FC2042AEFCCF800BAF593 /* findKim.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = findKim.swift; sourceTree = "<group>"; };
@@ -132,7 +132,7 @@
 				6CF85C312B0CCED600D337A3 /* sumMatrix.swift */,
 				6CC799712B0E1DEF0065A751 /* printRectangle.swift */,
 				6C722CCB2B0F5E3B008DB15B /* CommonFactorMultiple.swift */,
-				6C5F383E2B1504020028B793 /* upperCaseString.swift */,
+				6C5F383E2B1504020028B793 /* changeUpperCase.swift */,
 				6C5F38402B1504690028B793 /* changeBinary.swift */,
 			);
 			path = Practice;
