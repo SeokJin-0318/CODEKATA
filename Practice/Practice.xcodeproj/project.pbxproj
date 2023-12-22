@@ -39,6 +39,7 @@
 		6C3CF6DB2AFBA32700FE4988 /* divisorSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = divisorSum.swift; sourceTree = "<group>"; };
 		6C3CF6DD2AFCF33200FE4988 /* sortedString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sortedString.swift; sourceTree = "<group>"; };
 		6C3CF6DF2AFCF52F00FE4988 /* price.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = price.swift; sourceTree = "<group>"; };
+		6C5A06082B34A72A00A82A2E /* StringToInt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringToInt.swift; sourceTree = "<group>"; };
 		6C5F383E2B1504020028B793 /* changeUpperCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = changeUpperCase.swift; sourceTree = "<group>"; };
 		6C5F38402B1504690028B793 /* changeBinary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = changeBinary.swift; sourceTree = "<group>"; };
 		6C722CCB2B0F5E3B008DB15B /* CommonFactorMultiple.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommonFactorMultiple.swift; sourceTree = "<group>"; };
@@ -142,6 +143,7 @@
 				6C25DCF92B19914C0038137D /* compare_otherNumber.swift */,
 				6CC5F71E2B2A4C1600BF6730 /* makeWallet.swift */,
 				6C3CB6572B2A802A00A27A43 /* caesarCipher.swift */,
+				6C5A06082B34A72A00A82A2E /* StringToInt.swift */,
 			);
 			path = Practice;
 			sourceTree = "<group>";
